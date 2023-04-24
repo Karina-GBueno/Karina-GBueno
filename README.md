@@ -7,8 +7,9 @@
 
 
 <div align="center">
+  <a href="https://github.com/Karina-GBueno/" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karina-GBueno&theme=radical&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-GBueno&repo=github-readme-stats&cache_seconds=86400&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-GBueno&repo=github-readme-stats&cache_seconds=86400&theme=radical"/><a/>
 </div>
   
 <div style="display: inline_block"><br>
