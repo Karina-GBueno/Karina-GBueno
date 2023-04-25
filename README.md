@@ -5,6 +5,12 @@
 - 📫 Contate-me no email: karinabueno.dev@gmail.com
 - 😄 Pronouns: Ela/Dela
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karina-GBueno&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karina-GBueno&theme=radical&hide_progress=true" />
+</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Karina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
