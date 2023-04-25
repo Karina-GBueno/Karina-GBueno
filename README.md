@@ -1,7 +1,7 @@
 <h1>Olá meu nome é Karina, bem vindo ao meu github!!!</h1>
 
 - 🔭 Sou estudante do curso de Desenvolvimento Web da Trybe. 
-- 🌱 Atualmente estou estudando as linguagens e tecnologias: JavaScript (JS), HTML(linguagem de marcação) e CSS(linguagem de marcação).
+- 🌱 Atualmente estou estudando as linguagens e tecnologias: JavaScript (JS), HTML(linguagem de marcação) e CSS(linguagem de estilo).
 - 📫 Contate-me no email: karinabueno.dev@gmail.com
 - 😄 Pronouns: Ela/Dela
 
